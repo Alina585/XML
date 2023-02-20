@@ -1,5 +1,17 @@
-<skills_1> </базовая теория>
-<skills_2> </клиент-серверная архитектура>
-<skills_3> </HTTP методы запросов на сервер>
-<skills_4> </Коды ответов HTTP сервера>
-<skills_5> </Структуры HTTP запросов и ответов>
+<skills>
+    <title> в окне регистрации после заполнения формы нет кнопки отправить</title>
+
+    <steps>
+    <step1>зайти на сайт</step1>
+    <step2>кликнуть кнопку зарегистрироваться</step2>
+    <step3>заполнить все поля формы </step3>
+    </steps>
+
+    <author>Васильева Алина </author>
+    <severity>Высокий</severity>
+    <priority>Высокий</priority>
+    <status>В работе</status>
+    <actualresult>При заполнении всех полей формы регистрации,в окне регистрации нет кнопки для отправки данных</actualresult>
+    <expected result>При заполнении всех полей формы регистрации в нижней части окна появляется кнопка "отправить"</expected result>
+    <additional materials> </additional materials>
+</skills>
